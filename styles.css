@@ -11,7 +11,7 @@ body {
     background: #ffffff;
     min-height: 100vh;
     position: relative;
-    cursor: url("cursor.png"), auto;
+    cursor: url("assets/cursor.png"), auto;
     overflow-x: hidden;
 }
 
